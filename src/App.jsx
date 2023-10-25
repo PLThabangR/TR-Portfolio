@@ -15,21 +15,23 @@ function App() {
   return (
     <>
     <BrowserRouter>
-    <Header/>
+    
     <main >
+    <Header/>
     <Routes>
       <Route path='/' element={<Index/>}/>
       <Route path='/contact' element={<Contact/>}/>
       <Route path='/resume' element={<Resume/>}/>
       <Route path='/projects' element={<Project/>}/>
     </Routes>
+    <Footer/>
     </main>
   
     <div>
    
 
 
-    <Footer/>
+    
     </div>
     </BrowserRouter>
    
