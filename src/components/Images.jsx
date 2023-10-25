@@ -1,5 +1,4 @@
-import React from "react";
-import profile from '../assets/profile.png';
+import thabangr from '../assets/thabangr.png'
 
 const Images = () => {
   return (
@@ -7,7 +6,7 @@ const Images = () => {
       <div className="col-xxl-7">
         <div className="d-flex justify-content-center mt-5 mt-xxl-0">
           <div className="profile bg-gradient-primary-to-secondary">
-            <img className="profile-img" src={profile} alt="profile" />
+            <img className="profile-img" src={thabangr} alt="profile" />
             <div className="dots-1">
               <svg>
                 <g transform="translate(0.000000,1280.000000) scale(0.100000,-0.100000)">
