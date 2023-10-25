@@ -5,6 +5,7 @@ import imageGen from '../assets/imageGen.png'
 import aisum from '../assets/aisum.png';
 import pass from '../assets/pass.png';
 import estate from '../assets/estatee.png';
+import gitf from '../assets/gitf.png';;
 import { Link }  from 'react-router-dom'
 const Project = () => {
   return (
@@ -99,10 +100,27 @@ const Project = () => {
 
     <div className="card overflow-hidden shadow rounded-4 border-0  mb-5">
     <div className="card-body p-0">
+    <img className="img-fluid" src={gitf} alt="..." />
+        <div className="d-flex align-items-center">
+            <div className="p-5">
+                <h2 className="fw-bolder">GitHub finder</h2>
+                <p>A Web app that interact with a third party
+                GitHub Api to fetch GitHub users .It also
+                helps to search users from GitHub by names.
+                
+                </p>
+                <a href="https://gitapifinder099865432.netlify.app/">https://gitapifinder099865432.netlify.app/</a>
+            </div>
+           
+        </div>
+    </div>
+</div>
+    <div className="card overflow-hidden shadow rounded-4 border-0  mb-5">
+    <div className="card-body p-0">
     <img className="img-fluid" src={estate} alt="..." />
         <div className="d-flex align-items-center">
             <div className="p-5">
-                <h2 className="fw-bolder">TR House Estate</h2>
+                <h2 className="fw-bolder">TR Housing</h2>
                 <p>A web app which helps buyers and sellers to buy and to sell houses currently still under development</p>
             </div>
            
