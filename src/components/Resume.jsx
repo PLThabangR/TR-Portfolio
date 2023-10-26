@@ -4,7 +4,7 @@ const Resume = () => {
   return (
     <div>
     <div className="d-flex flex-column h-100 bg-light">
-    <main class="flex-shrink-0">
+    <main className="flex-shrink-0">
        
        
         <div className="container px-5 my-5">
@@ -29,13 +29,55 @@ const Resume = () => {
                                 <div className="row align-items-center gx-5">
                                     <div className="col text-center text-lg-start mb-4 mb-lg-0">
                                         <div className="bg-light p-4 rounded-4">
-                                            <div className="text-primary fw-bolder mb-2">2019 - Present</div>
-                                            <div className="small fw-bolder">Web Developer</div>
-                                            <div className="small text-muted">Stark Industries</div>
-                                            <div className="small text-muted">Los Angeles, CA</div>
+                                            <div className="text-primary fw-bolder mb-2">2020 - 2023</div>
+                                            <div className="small fw-bolder">Warehouse assistance</div>
+                                            <div className="small text-muted">Plumblink</div>
+                                            <div className="small text-muted">Midrand</div>
                                         </div>
                                     </div>
-                                    <div className="col-lg-8"><div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus laudantium, voluptatem quis repellendus eaque sit animi illo ipsam amet officiis corporis sed aliquam non voluptate corrupti excepturi maxime porro fuga.</div></div>
+                                    <div className="col-lg-8"><div>Picking stocks for various branches and ensuring that
+all other orders for branches and customers are
+picked.
+</div></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="card shadow border-0 rounded-4 mb-5">
+                            <div className="card-body p-5">
+                                <div className="row align-items-center gx-5">
+                                    <div className="col text-center text-lg-start mb-4 mb-lg-0">
+                                        <div className="bg-light p-4 rounded-4">
+                                            <div className="text-primary fw-bolder mb-2">2019 - 2019</div>
+                                            <div className="small fw-bolder">Web Developer</div>
+                                            <div className="small text-muted">The Digital Academy</div>
+                                            <div className="small text-muted">Johannesburg</div>
+                                        </div>
+                                    </div>
+                                    <div className="col-lg-8"><div>Developed high quality web application which was a
+Quick Cv. The aim of the app was to help people to
+build their CV's easier using a modern framework. I
+gained experience in angular 7 and Spring framework .</div></div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div className="card shadow border-0 rounded-4 mb-5">
+                            <div className="card-body p-5">
+                                <div className="row align-items-center gx-5">
+                                    <div className="col text-center text-lg-start mb-4 mb-lg-0">
+                                        <div className="bg-light p-4 rounded-4">
+                                            <div className="text-primary fw-bolder mb-2">2018 - 2018</div>
+                                            <div className="small fw-bolder">Android Developer</div>
+                                            <div className="small text-muted">Embizo Solution Developers</div>
+                                            <div className="small text-muted">Boksburg</div>
+                                        </div>
+                                    </div>
+                                    <div className="col-lg-8"><div>Developed an app which allows user to view embizo
+services for WIFI. Working with embizo clients on
+various mobile applications. Excellent in programming
+language used for mobile app development: Java
+Good technical knowledge of Android SDK , Android
+Studio, Gradle Google api and Firebase </div></div>
                                 </div>
                             </div>
                         </div>
@@ -45,13 +87,15 @@ const Resume = () => {
                                 <div className="row align-items-center gx-5">
                                     <div className="col text-center text-lg-start mb-4 mb-lg-0">
                                         <div className="bg-light p-4 rounded-4">
-                                            <div className="text-primary fw-bolder mb-2">2017 - 2019</div>
-                                            <div className="small fw-bolder">SEM Specialist</div>
-                                            <div className="small text-muted">Wayne Enterprises</div>
-                                            <div className="small text-muted">Gotham City, NY</div>
+                                            <div className="text-primary fw-bolder mb-2">2017 - 2018</div>
+                                            <div className="small fw-bolder">Warehouse assistance</div>
+                                            <div className="small text-muted">Plumblink</div>
+                                            <div className="small text-muted">Midrand</div>
                                         </div>
                                     </div>
-                                    <div className="col-lg-8"><div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus laudantium, voluptatem quis repellendus eaque sit animi illo ipsam amet officiis corporis sed aliquam non voluptate corrupti excepturi maxime porro fuga.</div></div>
+                                    <div className="col-lg-8"><div>Picking stocks for various branches and ensuring that
+all other orders for branches and customers are
+picked.</div></div>
                                 </div>
                             </div>
                         </div>
@@ -65,18 +109,90 @@ const Resume = () => {
                                 <div className="row align-items-center gx-5">
                                     <div className="col text-center text-lg-start mb-4 mb-lg-0">
                                         <div className="bg-light p-4 rounded-4">
-                                            <div className="text-secondary fw-bolder mb-2">2015 - 2017</div>
+                                            <div className="text-secondary fw-bolder mb-2">2023</div>
                                             <div className="mb-2">
-                                                <div className="small fw-bolder">Barnett College</div>
-                                                <div className="small text-muted">Fairfield, NY</div>
+                                                <div className="small fw-bolder">Hackerrank</div>
+                                                <div className="small text-muted">Online certificate</div>
                                             </div>
                                             <div className="fst-italic">
-                                                <div className="small text-muted">Master's</div>
+                                                <div className="small text-muted">Javascript</div>
                                                 <div className="small text-muted">Web Development</div>
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="col-lg-8"><div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus laudantium, voluptatem quis repellendus eaque sit animi illo ipsam amet officiis corporis sed aliquam non voluptate corrupti excepturi maxime porro fuga.</div></div>
+                                    <div className="col-lg-8"><div>It covers topics like, Functions, Currying, Hoisting,Loops, Scope, Inheritance, Events and Error Handling.</div></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="card shadow border-0 rounded-4 mb-5">
+                            <div className="card-body p-5">
+                                <div className="row align-items-center gx-5">
+                                    <div className="col text-center text-lg-start mb-4 mb-lg-0">
+                                        <div className="bg-light p-4 rounded-4">
+                                            <div className="text-secondary fw-bolder mb-2">2023 - 2023</div>
+                                            <div className="mb-2">
+                                                <div className="small fw-bolder">Skill Up</div>
+                                                <div className="small text-muted">Online course</div>
+                                            </div>
+                                            <div className="fst-italic">
+                                                <div className="small text-muted">Junior</div>
+                                                <div className="small text-muted">Full Stack Development
+</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div className="col-lg-8"><div>In this course we build robust, scalable, and secure
+applications using modern Java ,JavaScript ,HTML 5
+,CSS, React ,Mongo and AngularJS. This course equipped
+me with the skills I need to become a successful fullStack developer.</div></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="card shadow border-0 rounded-4 mb-5">
+                            <div className="card-body p-5">
+                                <div className="row align-items-center gx-5">
+                                    <div className="col text-center text-lg-start mb-4 mb-lg-0">
+                                        <div className="bg-light p-4 rounded-4">
+                                            <div className="text-secondary fw-bolder mb-2">2023 - present</div>
+                                            <div className="mb-2">
+                                                <div className="small fw-bolder">DevOps & Sofware enginnering</div>
+                                                <div className="small text-muted">Coursera ,IBM</div>
+                                            </div>
+                                            <div className="fst-italic">
+                                                <div className="small text-muted">Junior</div>
+                                                <div className="small text-muted">DevOPs</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div className="col-lg-8"><div>I have gained knowledge about using Agile approach,
+Microservice ,Python, Linux ,Cloud Computing and
+Kubernetes I have become familiar with developing
+application on IBM cloud
+</div></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="card shadow border-0 rounded-4 mb-5">
+                            <div className="card-body p-5">
+                                <div className="row align-items-center gx-5">
+                                    <div className="col text-center text-lg-start mb-4 mb-lg-0">
+                                        <div className="bg-light p-4 rounded-4">
+                                            <div className="text-secondary fw-bolder mb-2">2019 - 2019</div>
+                                            <div className="mb-2">
+                                                <div className="small fw-bolder">The Digital Academy</div>
+                                                <div className="small text-muted">Fairfield, NY</div>
+                                            </div>
+                                            <div className="fst-italic">
+                                                <div className="small text-muted"></div>
+                                                <div className="small text-muted">Software Development</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div className="col-lg-8"><div>I obtained a certificate in software development after the
+completion of the internship which was for a period of six
+months .In addition I achieved a certificate for the most
+improved intern of the cohort and a certification for best
+solution of the cohor</div></div>
                                 </div>
                             </div>
                         </div>
@@ -86,10 +202,10 @@ const Resume = () => {
                                 <div className="row align-items-center gx-5">
                                     <div className="col text-center text-lg-start mb-4 mb-lg-0">
                                         <div className="bg-light p-4 rounded-4">
-                                            <div className="text-secondary fw-bolder mb-2">2011 - 2015</div>
+                                            <div className="text-secondary fw-bolder mb-2">2015</div>
                                             <div className="mb-2">
-                                                <div className="small fw-bolder">ULA</div>
-                                                <div className="small text-muted">Los Angeles, CA</div>
+                                                <div className="small fw-bolder">University of Johannesburg</div>
+                                                <div className="small text-muted">Johannesburg</div>
                                             </div>
                                             <div className="fst-italic">
                                                 <div className="small text-muted">Undergraduate</div>
@@ -97,7 +213,8 @@ const Resume = () => {
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="col-lg-8"><div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus laudantium, voluptatem quis repellendus eaque sit animi illo ipsam amet officiis corporis sed aliquam non voluptate corrupti excepturi maxime porro fuga.</div></div>
+                                    <div className="col-lg-8"><div>I completed a year studying computer science were I
+learnt Visual basics, Calculus Mathematics and Java.</div></div>
                                 </div>
                             </div>
                         </div>
@@ -105,47 +222,7 @@ const Resume = () => {
                    
                     <div className="pb-5"></div>
                   
-                    <section>
-                      
-                        <div className="card shadow border-0 rounded-4 mb-5">
-                            <div className="card-body p-5">
-                              
-                                <div className="mb-5">
-                                    <div className="d-flex align-items-center mb-4">
-                                        <div className="feature bg-primary bg-gradient-primary-to-secondary text-white rounded-3 me-3"><i class="bi bi-tools"></i></div>
-                                        <h3 className="fw-bolder mb-0"><span className="text-gradient d-inline">Professional Skills</span></h3>
-                                    </div>
-                                    <div className="row row-cols-1 row-cols-md-3 mb-4">
-                                        <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">SEO/SEM Marketing</div></div>
-                                        <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Statistical Analysis</div></div>
-                                        <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Web Development</div></div>
-                                    </div>
-                                    <div className="row row-cols-1 row-cols-md-3">
-                                        <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Network Security</div></div>
-                                        <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Adobe Software Suite</div></div>
-                                        <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">User Interface Design</div></div>
-                                    </div>
-                                </div>
-                                
-                                <div className="mb-0">
-                                    <div className="d-flex align-items-center mb-4">
-                                        <div className="feature bg-primary bg-gradient-primary-to-secondary text-white rounded-3 me-3"><i class="bi bi-code-slash"></i></div>
-                                        <h3 className="fw-bolder mb-0"><span className="text-gradient d-inline">Languages</span></h3>
-                                    </div>
-                                    <div className="row row-cols-1 row-cols-md-3 mb-4">
-                                        <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">HTML</div></div>
-                                        <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">CSS</div></div>
-                                        <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">JavaScript</div></div>
-                                    </div>
-                                    <div className="row row-cols-1 row-cols-md-3">
-                                        <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Python</div></div>
-                                        <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Ruby</div></div>
-                                        <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Node.js</div></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
+                  
                 </div>
             </div>
         </div>

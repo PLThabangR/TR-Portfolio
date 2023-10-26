@@ -1,5 +1,5 @@
 import React from 'react'
-import profile from '../assets/profile.png';
+
 import Images from './Images';
 import { Link }  from 'react-router-dom'
 
@@ -36,16 +36,17 @@ const Index = () => {
         <div className="col-xxl-8">
             <div className="text-center my-5">
                 <h2 className="display-5 fw-bolder"><span className="text-gradient d-inline">About Me</span></h2>
-                <p className="lead fw-light mb-4">My name Thabang Rakgorop,A self-taught with great knowledge and insight in Software programming and I help brands grow in Web development</p>
+                <p className="lead fw-light mb-4">My name Thabang Rakgorop,A self-taught developer with great knowledge and understanding in Software programming and I help brands grow in Web development</p>
                 <p className="text-muted">I work with client side and server side
-                JavaScript programming which includes node js or any other
-                frameworks, Currently working with JavaScript framework
-                React & Node js</p>
+                 programming which includes Java, SQL or any other javascript
+                frameworks, Currently working with JavaScript frameworks such as
+                React, Next & Node js</p>
                 
                 <div className="d-flex justify-content-center fs-2 gap-4">
                     <a className="text-gradient" href="#!"><i className="bi bi-twitter"></i></a>
                     <a className="text-gradient" href="https://www.linkedin.com/in/thabang-rakgoropo-98a635124/"><i className="bi bi-linkedin"></i></a>
                     <a className="text-gradient" href="https://github.com/PLThabangR"><i className="bi bi-github"></i></a>
+          
                 </div>
             </div>
         </div>

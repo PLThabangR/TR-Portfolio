@@ -2,7 +2,81 @@ import React from 'react'
 
 const Contact = () => {
   return (
-    <div>Contact</div>
+    <>
+   
+   <section>
+                            
+                            <div className="card shadow border-0 rounded-4 mb-5">
+                                <div className="card-body p-5">
+                                   
+                                    <div className="mb-5">
+                                        <div className="d-flex align-items-center mb-4">
+                                            <div className="feature bg-primary bg-gradient-primary-to-secondary text-white rounded-3 me-3"><i className="bi bi-tools"></i></div>
+                                            <h3 className="fw-bolder mb-0"><span className="text-gradient d-inline">Professional Skills</span></h3>
+                                        </div>
+                                        <div className="row row-cols-1 row-cols-md-3 mb-4">
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Frontend technology</div></div>
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Server side technology</div></div>
+                                            <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Web Development</div></div>
+                                        </div>
+                                        <div className="row row-cols-1 row-cols-md-3 mb-4">
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Object oriented practices</div></div>
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Database proficiency</div></div>
+                                            <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Agile practices</div></div>
+                                        </div>
+                                        <div className="row row-cols-1 row-cols-md-3 mb-4">
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Maintainability of code</div></div>
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Documentation</div></div>
+                                            <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">User interface design</div></div>
+                                        </div>
+                                       
+                                       
+                                    </div>
+                                   
+                                    <div className="mb-0">
+                                        <div className="d-flex align-items-center mb-4">
+                                            <div className="feature bg-primary bg-gradient-primary-to-secondary text-white rounded-3 me-3"><i className="bi bi-code-slash"></i></div>
+                                            <h3 className="fw-bolder mb-0"><span className="text-gradient d-inline">Languages</span></h3>
+                                        </div>
+                                        <div className="row row-cols-1 row-cols-md-3 mb-4">
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">HTML</div></div>
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">CSS</div></div>
+                                            <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">JavaScript</div></div>
+                                        </div>
+                                        <div className="row row-cols-1 row-cols-md-3 mb-4">
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Angular</div></div>
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">React</div></div>
+                                            <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Typescript</div></div>
+                                        </div>
+                                        <div className="row row-cols-1 row-cols-md-3 mb-4">
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Bulma css</div></div>
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Bootstrap</div></div>
+                                            <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Daisy UI</div></div>
+                                        </div>
+                                         <div className="row row-cols-1 row-cols-md-3 mb-4">
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Tailwind</div></div>
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Rest Api</div></div>
+                                            <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Spring boot</div></div>
+                                        </div>
+                                        <div className="row row-cols-1 row-cols-md-3 mb-4">
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Express</div></div>
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">MySQL</div></div>
+                                            <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Mongo DB</div></div>
+                                        </div>
+                                        <div className="row row-cols-1 row-cols-md-3">
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Python</div></div>
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Java</div></div>
+                                            <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Node.js</div></div>
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+   
+
+    
+    </>
   )
 }
 
