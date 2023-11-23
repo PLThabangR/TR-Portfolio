@@ -36,11 +36,11 @@ const Index = () => {
         <div className="col-xxl-8">
             <div className="text-center my-5">
                 <h2 className="display-5 fw-bolder"><span className="text-gradient d-inline">About Me</span></h2>
-                <p className="lead fw-light mb-4">My name Thabang Rakgorop,A self-taught developer with great knowledge and understanding in Software programming and I help brands grow in Web development</p>
-                <p className="text-muted">I work with client side and server side
-                 programming which includes Java, SQL or any other Javascript
-                frameworks .Currently working with JavaScript frameworks such as
-                React, Next js & Node js</p>
+                <p className="lead fw-light mb-4">My nameThabang Rakgoropo born in 17 June 1993,I am frontend developer with great knowledge and understanding in Software programming and I help brands grow in Web development. </p>
+                <p className="lead fw-light mb-4"> I have great aspiration of becoming a DevOps Developer with completed Cloud and Agile Certificatioms from IBM.</p>
+                <p className="text-muted">I work with client side and server side programming which includes Java, SQL or any other Javascript
+                frameworks .Currently working with Typescript frameworks such as Angular, React & Node js
+                </p>
                 
                 <div className="d-flex justify-content-center fs-2 gap-4">
                 <a className="text-gradient" href="https://www.hackerrank.com/profile/rakgoropothaban1">Hackerrank</a>

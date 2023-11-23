@@ -137,7 +137,7 @@ const Project = () => {
     <div className="text-center">
         <h2 className="display-4 fw-bolder mb-4">Lets build something together</h2>
         <Link to="/contact">
-        <a className="btn btn-outline-light btn-lg px-5 py-3 fs-6 fw-bolder" href="contact.html">Contact me</a>
+        <a className="btn btn-outline-light btn-lg px-5 py-3 fs-6 fw-bolder" href="contact.html">See my Skills</a>
         </Link>
     </div>
 </div>

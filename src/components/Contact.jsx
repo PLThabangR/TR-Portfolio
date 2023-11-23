@@ -26,7 +26,7 @@ const Contact = () => {
                                         </div>
                                         <div className="row row-cols-1 row-cols-md-3 mb-4">
                                             <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Maintainability of code</div></div>
-                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Documentation</div></div>
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Problem Solving skills</div></div>
                                             <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">User interface design</div></div>
                                         </div>
                                        
@@ -38,16 +38,22 @@ const Contact = () => {
                                             <div className="feature bg-primary bg-gradient-primary-to-secondary text-white rounded-3 me-3"><i className="bi bi-code-slash"></i></div>
                                             <h3 className="fw-bolder mb-0"><span className="text-gradient d-inline">Languages</span></h3>
                                         </div>
+
+
                                         <div className="row row-cols-1 row-cols-md-3 mb-4">
                                             <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">HTML</div></div>
                                             <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">CSS</div></div>
                                             <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">JavaScript</div></div>
                                         </div>
+                                        
                                         <div className="row row-cols-1 row-cols-md-3 mb-4">
                                             <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Angular</div></div>
                                             <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">React</div></div>
                                             <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Typescript</div></div>
                                         </div>
+                                        
+                                        
+                                      
                                         <div className="row row-cols-1 row-cols-md-3 mb-4">
                                             <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Bulma css</div></div>
                                             <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Bootstrap</div></div>
@@ -68,6 +74,23 @@ const Contact = () => {
                                             <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Java</div></div>
                                             <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Node.js</div></div>
                                         </div>
+                                
+                                <br/>
+                                <div className="row row-cols-1 row-cols-md-3 mb-4">
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Kubernets</div></div>
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">IBM Cloud</div></div>
+                                            <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Docker</div></div>
+                                        </div>
+
+                                       
+                                <div className="row row-cols-1 row-cols-md-3 mb-4">
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Git & GitHub</div></div>
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Linux</div></div>
+                                            <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Microservices</div></div>
+                                        </div>
+                                        
+                                    
+                                      
                                         
                                     </div>
                                 </div>
