@@ -1,11 +1,10 @@
-import React from 'react'
 import cvprofile from '../assets/cvprofile.png';
 import quickcv from '../assets/quickcv.png';
 import imageGen from '../assets/imageGen.png'
 import aisum from '../assets/aisum.png';
 import pass from '../assets/pass.png';
 import estate from '../assets/estatee.png';
-import gitf from '../assets/gitf.png';;
+import gitf from '../assets/gitf.png';
 import { Link }  from 'react-router-dom'
 const Project = () => {
   return (
@@ -58,7 +57,7 @@ const Project = () => {
             React+Vite in the frontend .This app
                             interact with OpenAI to generate images
                             for users, then shares with community</p>
-                            <a href="https://fancy-genie-018c5c.netlify.app/">https://fancy-genie-018c5c.netlify.app/</a>
+                            <a href="https://image-genai.netlify.app/">https://image-genai.netlify.app/</a>
                         </div>
                        
                     </div>
@@ -76,7 +75,7 @@ const Project = () => {
                         condenses a long article to main points. It
                         is useful for students and news media
                         companies</p>
-                        <a href="https://gorgeous-travesseiro-caf808.netlify.app/">https://gorgeous-travesseiro-caf808.netlify.app/</a>
+                        <a href="https://blog-sumar21.netlify.app/">https://blog-sumar21.netlify.app/</a>
                     </div>
                   
                 </div>
