@@ -12,7 +12,7 @@ const Index = () => {
             <div className="col-xxl-5">
                
                 <div className="text-center text-xxl-start">
-                    <div className="badge bg-gradient-primary-to-secondary text-white mb-4"><div className="text-uppercase">frontend &middot;Backend &middot; SQL</div></div>
+                    <div className="badge bg-gradient-primary-to-secondary text-white mb-4"><div className="text-uppercase">Frontend &middot;Cloud &middot; Python</div></div>
                     <div className="fs-3 fw-light text-muted">I can help your business to</div>
                     <h1 className="display-3 fw-bolder mb-5"><span className="text-gradient d-inline">Get online and grow fast</span></h1>
                     <div className="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xxl-start mb-3">
@@ -37,7 +37,7 @@ const Index = () => {
             <div className="text-center my-5">
                 <h2 className="display-5 fw-bolder"><span className="text-gradient d-inline">About Me</span></h2>
                 <p className="lead fw-light mb-4">My name is Thabang Rakgoropo born in 17 June 1993,I am a Frontend Developer with demonstrated Programming experience in developing various Applications. I help brands grow in Web development. </p>
-                <p className="lead fw-light mb-4"> I have great aspiration of becoming a DevOps Developer, recently I completed Cloud and Agile Certifications from IBM.Cloud-based platforms enable large enterprise businesses to build, test and deploy applications, and store, back up, and recover data. </p>
+                <p className="lead fw-light mb-4"> I have great aspiration of becoming a DevOps Developer, recently I completed Cloud and Agile Certifications from IBM.</p>
                 <p className="text-muted">I work with Client side and Server side Programming which includes Java, SQL or any other Javascript
                 frameworks .Currently working with Typescript frameworks such as Angular, React & Node js
                 </p>
