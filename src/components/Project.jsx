@@ -108,7 +108,7 @@ const Project = () => {
                 helps to search users from GitHub by names.
                 
                 </p>
-                <a href="https://gitapifinder099865432.netlify.app/">https://gitapifinder099865432.netlify.app/</a>
+                <a href="https://gitapifinder.netlify.app">https://gitapifinder.netlify.app/</a>
             </div>
            
         </div>
