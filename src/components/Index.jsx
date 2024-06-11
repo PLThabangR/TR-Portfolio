@@ -36,11 +36,12 @@ const Index = () => {
         <div className="col-xxl-8">
             <div className="text-center my-5">
                 <h2 className="display-5 fw-bolder"><span className="text-gradient d-inline">About Me</span></h2>
-                <p className="lead fw-light mb-4">My name is Thabang Rakgoropo born in 17 June 1993,I am a Frontend Developer with demonstrated Programming experience in developing various Applications. I help brands grow in Web development. </p>
-                <p className="lead fw-light mb-4"> I have great aspiration of becoming a DevOps Developer, recently I completed Cloud and Agile Certifications from IBM.</p>
-                <p className="text-muted">I work with Client side and Server side Programming which includes Java, SQL or any other Javascript
+                <p className="lead fw-light mb-4">My name is Thabang Rakgoropo I reside in Midrand(SA) I love continous learning as I believe that as human beings we master concepts as we study and practice nothing is impossible.I am a Web Developer with demonstrated Programming experience in developing various Applications. I help brands grow in Web development. </p>
+                <p className="lead fw-light mb-3"> I have great aspiration of becoming a Full Stack Developer, recently I completed a Fronted Certification from Meta, Database Certification and finally Developing apps with node js and Express certification from IBM </p>
+                <p className="text-muted">I work with Client side and Server side Programming which includes Express, SQL or any other Javascript
                 frameworks .Currently working with Typescript frameworks such as Angular, React & Node js
                 </p>
+                <p className="text-muted">I also aspire to work as a Data analysyt as I also completed a Google Data analytics certification </p>
                 
                 <div className="d-flex justify-content-center fs-2 gap-4">
                 <a className="text-gradient" href="https://www.hackerrank.com/profile/rakgoropothaban1">Hackerrank</a>
