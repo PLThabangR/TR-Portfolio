@@ -40,8 +40,8 @@ const Index = () => {
                 <h2 className="display-5 fw-bolder"><span className="text-gradient d-inline">Skills and Technologies</span></h2>
                 
                 <ul>
-                    <li><p className="fs-6 text-muted"><b>Front-End Development</b>: Proficient in HTML, CSS, JavaScript, and modern frameworks like React and Angular. Skilled in creating responsive designs using Bootstrap and Bulma CSS. </p></li>
-                    <li><p className="fs-6 text-muted"><b> Back-End Development</b>: Proficient with server-side languages such as Node.js, Python, and Express. Good at building RESTful APIs and integrating with databases like  MySQL, and MongoDB. </p></li>
+                    <li><p className="fs-6 text-muted"><b>Front-End</b>: Proficient in HTML, CSS, JavaScript, and modern frameworks like React and Angular. Skilled in creating responsive designs using Bootstrap and Bulma CSS. </p></li>
+                    <li><p className="fs-6 text-muted"><b>Back-End</b>: Proficient with server-side languages such as Node.js, Python, and Express. Good at building RESTful APIs and integrating with databases like  MySQL, and MongoDB. </p></li>
                     <li><p className="fs-6 text-muted"><b>Version Control</b>: Proficient in using Git and GitHub for version control, ensuring smooth collaboration and code management </p></li>
                 </ul>
                

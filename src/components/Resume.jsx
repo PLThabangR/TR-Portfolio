@@ -15,7 +15,7 @@ const Resume = () => {
                 <div className="col-lg-11 col-xl-9 col-xxl-8">
 
                     <section>
-                        <div className="d-flex align-items-center justify-content-between mb-4">
+                        <div className="d-flex align-items-center justify-content-between mb-3">
                             <h2 className="text-primary fw-bolder mb-0">Experience</h2>
                            
                             <a className="btn btn-primary px-4 py-3" href="#!">
@@ -103,6 +103,76 @@ picked.</div></div>
                    
                     <section>
                         <h2 className="text-secondary fw-bolder mb-4">Education</h2>
+                        <div className="card shadow border-0 rounded-4 mb-5">
+                            <div className="card-body p-5">
+                                <div className="row align-items-center gx-5">
+                                    <div className="col text-center text-lg-start mb-4 mb-lg-0">
+                                        <div className="bg-light p-4 rounded-4">
+                                            <div className="text-secondary fw-bolder mb-2">2024</div>
+                                            <div className="mb-2">
+                                                <div className="small fw-bolder">Coursera</div>
+                                              
+                                            </div>
+                                            <div className="fst-italic">
+                                                <div className="small text-muted">Developing Back-End Apps with Node.js and Express</div>
+                                               
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div className="col-lg-8"><div>
+                                        <ul>
+                                            Create server-side applications using the Node.js JavaScript run time. <br></br>
+                             Extending Node.js applications with third-party packages and frameworks, including Express
+                                           
+
+                                        </ul>
+                                    </div></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="card shadow border-0 rounded-4 mb-5">
+                            <div className="card-body p-5">
+                                <div className="row align-items-center gx-5">
+                                    <div className="col text-center text-lg-start mb-4 mb-lg-0">
+                                        <div className="bg-light p-4 rounded-4">
+                                            <div className="text-secondary fw-bolder mb-2">2024</div>
+                                            <div className="mb-2">
+                                                <div className="small fw-bolder">Coursera</div>
+                                              
+                                            </div>
+                                            <div className="fst-italic">
+                                                <div className="small text-muted">Meta Database Engineer</div>
+                                               
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div className="col-lg-8"><div>Gained the skills required to create, manage and manipulate
+databases, as well as industry-standard programming languages and
+software such as SQL, Python, and Django</div></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="card shadow border-0 rounded-4 mb-5">
+                            <div className="card-body p-5">
+                                <div className="row align-items-center gx-5">
+                                    <div className="col text-center text-lg-start mb-4 mb-lg-0">
+                                        <div className="bg-light p-4 rounded-4">
+                                            <div className="text-secondary fw-bolder mb-2">2024</div>
+                                            <div className="mb-2">
+                                                <div className="small fw-bolder">Coursera</div>
+                                              
+                                            </div>
+                                            <div className="fst-italic">
+                                                <div className="small text-muted">Meta FrontEnd Developer</div>
+                                               
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div className="col-lg-8"><div>This 9-course program prepares learners for an entry-level career as a
+                                    front-end developer.</div></div>
+                                </div>
+                            </div>
+                        </div>
                        
                         <div className="card shadow border-0 rounded-4 mb-5">
                             <div className="card-body p-5">
@@ -112,11 +182,11 @@ picked.</div></div>
                                             <div className="text-secondary fw-bolder mb-2">2023</div>
                                             <div className="mb-2">
                                                 <div className="small fw-bolder">Hackerrank</div>
-                                                <div className="small text-muted">Online certificate</div>
+                                               
                                             </div>
                                             <div className="fst-italic">
                                                 <div className="small text-muted">Javascript</div>
-                                                <div className="small text-muted">Web Development</div>
+                                               
                                             </div>
                                         </div>
                                     </div>
@@ -132,10 +202,10 @@ picked.</div></div>
                                             <div className="text-secondary fw-bolder mb-2">2023 - 2023</div>
                                             <div className="mb-2">
                                                 <div className="small fw-bolder">Skill Up</div>
-                                                <div className="small text-muted">Online course</div>
+                                               
                                             </div>
                                             <div className="fst-italic">
-                                                <div className="small text-muted">Junior</div>
+                                    
                                                 <div className="small text-muted">Full Stack Development
 </div>
                                             </div>
@@ -155,13 +225,10 @@ me with the skills I need to become a successful fullStack developer.</div></div
                                         <div className="bg-light p-4 rounded-4">
                                             <div className="text-secondary fw-bolder mb-2">2023 - present</div>
                                             <div className="mb-2">
-                                                <div className="small fw-bolder">DevOps & Sofware enginnering</div>
-                                                <div className="small text-muted">Coursera ,IBM</div>
+                                                <div className="small fw-bolder">Coursera</div>
+                                                <div className="small text-muted">DevOps and Sofware Engineering</div>
                                             </div>
-                                            <div className="fst-italic">
-                                                <div className="small text-muted">Junior</div>
-                                                <div className="small text-muted">DevOPs</div>
-                                            </div>
+                                          
                                         </div>
                                     </div>
                                     <div className="col-lg-8"><div>I have gained knowledge about using Agile approach,
@@ -180,19 +247,16 @@ application on IBM cloud
                                             <div className="text-secondary fw-bolder mb-2">2019 - 2019</div>
                                             <div className="mb-2">
                                                 <div className="small fw-bolder">The Digital Academy</div>
-                                                <div className="small text-muted">Fairfield, NY</div>
+                                               
                                             </div>
                                             <div className="fst-italic">
-                                                <div className="small text-muted"></div>
+                                               
                                                 <div className="small text-muted">Software Development</div>
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="col-lg-8"><div>I obtained a certificate in software development after the
-completion of the internship which was for a period of six
-months .In addition I achieved a certificate for the most
-improved intern of the cohort and a certification for best
-solution of the cohor</div></div>
+                                    <div className="col-lg-8"><div>Learned practical, hands-on development skills that are needed in the real world whilst 
+                                    building commercial facing products via a rapid internship programme.</div></div>
                                 </div>
                             </div>
                         </div>

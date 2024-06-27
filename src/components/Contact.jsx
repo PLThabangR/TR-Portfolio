@@ -15,19 +15,19 @@ const Contact = () => {
                                             <h3 className="fw-bolder mb-0"><span className="text-gradient d-inline">Professional Skills</span></h3>
                                         </div>
                                         <div className="row row-cols-1 row-cols-md-3 mb-4">
-                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Frontend technology</div></div>
-                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Server side technology</div></div>
-                                            <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Web Development</div></div>
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Self-Driven</div></div>
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Research</div></div>
+                                            <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Analytical thinking</div></div>
                                         </div>
                                         <div className="row row-cols-1 row-cols-md-3 mb-4">
-                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Object oriented practices</div></div>
-                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Database proficiency</div></div>
-                                            <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Agile practices</div></div>
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Presentation </div></div>
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Attention to Detail</div></div>
+                                            <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Problem Solving Skills</div></div>
                                         </div>
                                         <div className="row row-cols-1 row-cols-md-3 mb-4">
-                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Maintainability of code</div></div>
-                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Problem Solving skills</div></div>
-                                            <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">User interface design</div></div>
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Communication</div></div>
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Adaptability</div></div>
+                                            <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Team work</div></div>
                                         </div>
                                        
                                        
@@ -36,7 +36,8 @@ const Contact = () => {
                                     <div className="mb-0">
                                         <div className="d-flex align-items-center mb-4">
                                             <div className="feature bg-primary bg-gradient-primary-to-secondary text-white rounded-3 me-3"><i className="bi bi-code-slash"></i></div>
-                                            <h3 className="fw-bolder mb-0"><span className="text-gradient d-inline">Languages</span></h3>
+                                            <h3 className="fw-bolder mb-0"><span className="text-gradient d-inline">Skills and Technologies
+                                            </span></h3>
                                         </div>
 
 
