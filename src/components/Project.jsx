@@ -3,7 +3,7 @@ import quickcv from '../assets/quickcv.png';
 import imageGen from '../assets/imageGen.png'
 import aisum from '../assets/aisum.png';
 import pass from '../assets/pass.png';
-import estate from '../assets/estatee.png';
+import tasks from '../assets/tasks.png';
 import gitf from '../assets/gitf.png';
 import { Link }  from 'react-router-dom'
 const Project = () => {
@@ -23,7 +23,9 @@ const Project = () => {
                         <div className="d-flex align-items-center">
                             <div className="p-3">
                                 <h2 className="fw-bolder">Quick CV</h2>
-                                <p>This is a angular application which allows user to build their cv's quickly .The app only allows user to enter their details then select a template and a color therefore the app will take of the rest by printing the cv to pdf. This app uses data binding and the user fills the data they see the live update.</p>
+                                <p>Quick CV Web Application was created to help design a well strcutured and informative CV. 
+This application allows users to focus more on content than design as it has many templates to 
+choose from and different information structure options</p>
                             </div>
                            
                         </div>
@@ -36,7 +38,7 @@ const Project = () => {
                         <div className="d-flex align-items-center">
                             <div className="p-3">
                                 <h2 className="fw-bolder">MY PROFILE(ANGULAR 7 APP) </h2>
-                                <p>A web app which show my full details
+                                <p>A Angular app portfolio project uses mdb bootsrtrap and dependency injection to share data accross components
                                 ,developed after my internship at Digital
                                 Academy</p>
                                 <a href="https://my-profile-96530.firebaseapp.com/bio">https://my-profile-96530.firebaseapp.com/bio</a>
@@ -70,7 +72,7 @@ const Project = () => {
                 <div className="d-flex align-items-center">
                     <div className="p-3">
                         <h2 className="fw-bolder">AI BLOG SUMMARIZER</h2>
-                        <p>A web app that use Open AI to wrap up a
+                        <p>A React that use Open AI to wrap up a
                         URL to a specified short length. It
                         condenses a long article to main points. It
                         is useful for students and news media
@@ -116,11 +118,12 @@ const Project = () => {
 </div>
     <div className="card overflow-hidden shadow rounded-4 border-0  mb-5">
     <div className="card-body p-0">
-    <img className="img-fluid" src={estate} alt="..." />
+    <img className="img-fluid" src={tasks} alt="..." />
         <div className="d-flex align-items-center">
             <div className="p-5">
-                <h2 className="fw-bolder">TR Housing</h2>
-                <p>A web app which helps buyers and sellers to buy and to sell houses currently still under development</p>
+                <h2 className="fw-bolder">Task planner</h2>
+                <p>A MERN stack app which boost productivity by allowing users to login then create tasks with details such as title,description and date .This App uses CRUD operation to edit,delete,and to create new task.This based on React and Express  </p>
+                <a href="https://github.com/PLThabangR/Express-Web-Sever">https://github.com/PLThabangR/Express-Web-Sever</a>
             </div>
            
         </div>
