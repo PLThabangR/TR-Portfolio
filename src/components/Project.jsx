@@ -105,9 +105,7 @@ choose from and different information structure options</p>
         <div className="d-flex align-items-center">
             <div className="p-5">
                 <h2 className="fw-bolder">GitHub finder</h2>
-                <p>A Web app that interact with a third party
-                GitHub Api to fetch GitHub users .It also
-                helps to search users from GitHub by names.
+                <p>Github Finder is a Web application that makes it easy for you to search and find users on GitHub. This application has complete features and is easy to use, so it is suitable for those of you who want to find users on GitHub, both for personal and professional purposes. 
                 
                 </p>
                 <a href="https://gitapifinder.netlify.app">https://gitapifinder.netlify.app/</a>
@@ -122,7 +120,7 @@ choose from and different information structure options</p>
         <div className="d-flex align-items-center">
             <div className="p-5">
                 <h2 className="fw-bolder">Task planner</h2>
-                <p>A MERN stack app which boost productivity by allowing users to login then create tasks with details such as title,description and date .This App uses CRUD operation to edit,delete,and to create new task.This based on React and Express  </p>
+                <p>Task management app to help you stay organized and manage your day-to-day which boost productivity by allowing users to login and to create tasks with details such as title,description and date .This App uses CRUD operation to edit,delete,and Simple UI.This based on React and Express  </p>
                 <a href="https://github.com/PLThabangR/Express-Web-Sever">https://github.com/PLThabangR/Express-Web-Sever</a>
             </div>
            

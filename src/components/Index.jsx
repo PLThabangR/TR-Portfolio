@@ -36,12 +36,16 @@ const Index = () => {
         <div className="col-xxl-8">
             <div className="text-center my-5">
                 <h2 className="display-5 fw-bolder"><span className="text-gradient d-inline">About Me</span></h2>
-                <p className="lead fw-bold mb-4">My name is Thabang Rakgoropo I reside in Midrand(SA) I love continous learning as I believe that as human beings we master concepts as we study and practice nothing is impossible.I am a Web Developer with demonstrated Programming experience in developing various Applications. I want to help brands grow in Web development. </p>
-                <p className="p-5"> I have great aspiration of becoming a Full Stack Developer, recently I completed a Fronted Certification from Meta, Database Certification and finally Developing apps with node js and Express certification from IBM </p>
-                <p className="text-muted">I work with Client side and Server side Programming which includes Express, SQL or any other Javascript
-                frameworks .Currently working with Typescript frameworks such as Angular, React & Node js
-                </p>
-                <p className="text-muted">I also aspire to work as a Data analysyt as I also completed a Google Data analytics certification </p>
+                <p className="lead fw-bold mb-4">I am a passionate and experienced web developer with a strong background in building dynamic, responsive, and user-friendly web applications. My expertise spans across front-end and back-end development, ensuring advanced solutions for various web project </p>
+                <h2 className="display-5 fw-bolder"><span className="text-gradient d-inline">Skills and Technologies</span></h2>
+                
+                <ul>
+                    <li><p className="fs-6 text-muted"><b>Front-End Development</b>: Proficient in HTML, CSS, JavaScript, and modern frameworks like React and Angular. Skilled in creating responsive designs using Bootstrap and Bulma CSS. </p></li>
+                    <li><p className="fs-6 text-muted"><b> Back-End Development</b>: Proficient with server-side languages such as Node.js, Python, and Express. Good at building RESTful APIs and integrating with databases like  MySQL, and MongoDB. </p></li>
+                    <li><p className="fs-6 text-muted"><b>Version Control</b>: Proficient in using Git and GitHub for version control, ensuring smooth collaboration and code management </p></li>
+                </ul>
+               
+               
                 
                 <div className="d-flex justify-content-center fs-2 gap-4">
                 <a className="text-gradient" href="https://www.hackerrank.com/profile/rakgoropothaban1">Hackerrank</a>
