@@ -17,16 +17,16 @@ const Contact = () => {
                                         <div className="row row-cols-1 row-cols-md-3 mb-4">
                                             <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Self-Driven</div></div>
                                             <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Research</div></div>
-                                            <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Analytical thinking</div></div>
+                                            <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Critical thinking</div></div>
                                         </div>
                                         <div className="row row-cols-1 row-cols-md-3 mb-4">
-                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Presentation </div></div>
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Creativty </div></div>
                                             <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Attention to Detail</div></div>
-                                            <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Problem Solving Skills</div></div>
+                                            <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Problem Solving</div></div>
                                         </div>
                                         <div className="row row-cols-1 row-cols-md-3 mb-4">
                                             <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Communication</div></div>
-                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Adaptability</div></div>
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Active listening</div></div>
                                             <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Team work</div></div>
                                         </div>
                                        
