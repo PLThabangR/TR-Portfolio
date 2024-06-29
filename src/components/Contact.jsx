@@ -58,7 +58,7 @@ const Contact = () => {
                                         <div className="row row-cols-1 row-cols-md-3 mb-4">
                                             <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Bulma css</div></div>
                                             <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Bootstrap</div></div>
-                                            <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Daisy UI</div></div>
+                                            <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Chakra UI</div></div>
                                         </div>
                                          <div className="row row-cols-1 row-cols-md-3 mb-4">
                                             <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Tailwind</div></div>
@@ -78,8 +78,8 @@ const Contact = () => {
                                 
                                 <br/>
                                 <div className="row row-cols-1 row-cols-md-3 mb-4">
-                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Kubernets</div></div>
-                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">IBM Cloud</div></div>
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Google Spreadsheet</div></div>
+                                            <div className="col mb-4 mb-md-0"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">AWS</div></div>
                                             <div className="col"><div className="d-flex align-items-center bg-light rounded-4 p-3 h-100">Docker</div></div>
                                         </div>
 
