@@ -27,7 +27,7 @@ const Project = () => {
                                 <p>Quick CV Web Application was created to help design a well strcutured and informative CV. 
 This application allows users to focus more on content than design as it has many templates to 
 choose from and different information structure options</p>
-<p><b>Technologies:</b> Angular, MBD Bootstrap, SpringBoot, MySQL, XepOnline, Typescript</p>
+<p><b>Technologies:</b> Angular, MBD Bootstrap, Java, SpringBoot, MySQL, XepOnline, Typescript</p>
                             </div>
                            
                         </div>
