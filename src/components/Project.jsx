@@ -5,6 +5,7 @@ import aisum from '../assets/aisum.png';
 import pass from '../assets/pass.png';
 import tasks from '../assets/tasks.png';
 import gitf from '../assets/gitf.png';
+import fm from '../assets/fm.png'
 import { Link }  from 'react-router-dom'
 const Project = () => {
   return (
@@ -26,7 +27,7 @@ const Project = () => {
                                 <p>Quick CV Web Application was created to help design a well strcutured and informative CV. 
 This application allows users to focus more on content than design as it has many templates to 
 choose from and different information structure options</p>
-<p><b>Technologies:</b> Angular, MBD Bootstrap, SpringBoot, MySQL, XepOnline</p>
+<p><b>Technologies:</b> Angular, MBD Bootstrap, SpringBoot, MySQL, XepOnline, Typescript</p>
                             </div>
                            
                         </div>
@@ -43,7 +44,7 @@ choose from and different information structure options</p>
                                 ,developed after my internship at Digital
                                 Academy</p>
                                 <p><b>Technologies:</b> Angular, MBD Bootstrap, JSon</p>
-                                <a href="https://my-profile-96530.firebaseapp.com/bio">https://my-profile-96530.firebaseapp.com/bio</a>
+                                <a href="https://my-profile-96530.firebaseapp.com/bio">click to vist site</a>
                             </div>
                           
                         </div>
@@ -62,7 +63,7 @@ choose from and different information structure options</p>
                             interact with OpenAI to generate images
                             for users, then shares with community</p>
                             <p><b>Technologies:</b> React, Bulma, Express, OpenAI, MongoDB</p>
-                            <a href="https://image-genai.netlify.app/">https://image-genai.netlify.app/</a>
+                            <a href="https://image-genai.netlify.app/">click to vist site</a>
                         </div>
                        
                     </div>
@@ -81,7 +82,7 @@ choose from and different information structure options</p>
                         is useful for students and news media
                         companies</p>
                         <p><b>Technologies:</b> React, Tailwind css, OpenAI</p>
-                        <a href="https://blog-sumar21.netlify.app/">https://blog-sumar21.netlify.app/</a>
+                        <a href="https://blog-sumar21.netlify.app/">click to vist site</a>
                     </div>
                   
                 </div>
@@ -96,8 +97,8 @@ choose from and different information structure options</p>
                     <p>A custom  angular web app that assists users to
                     create secured passwords
                     </p>
-                    <p><b>Technologies:</b> Angular, Bulma css, Random numbers</p>
-                    <a href="https://password-generator-a2esnt3ct-plthabangr.vercel.app/">https://password-generator-a2esnt3ct-plthabangr.vercel.app/</a>
+                    <p><b>Technologies:</b> Angular, Bulma css, Typescript</p>
+                    <a href="https://password-generator-a2esnt3ct-plthabangr.vercel.app/">click to vist site</a>
                 </div>
                
             </div>
@@ -113,13 +114,27 @@ choose from and different information structure options</p>
                 <p>Github Finder is a Web application that makes it easy for you to search and find users on GitHub. This application has complete features and is easy to use, so it is suitable for those of you who want to find users on GitHub, both for personal and professional purposes. 
                 
                 </p>
-                <p><b>Technologies:</b> React, MBD Bootrap, Github</p>
-                <a href="https://gitapifinder.netlify.app">https://gitapifinder.netlify.app/</a>
+                <p><b>Technologies:</b> React, MBDBootrap, Github, Typescript</p>
+                <a href="https://gitapifinder.netlify.app">click to vist site/</a>
             </div>
            
         </div>
     </div>
 </div>
+<div className="card overflow-hidden shadow rounded-4 border-0 mb-3">
+                    <div className="card-body p-0">
+                    <img className="img-fluid" src={fm} alt="project1" />
+                        <div className="d-flex align-items-center">
+                            <div className="p-2">
+                                <h2 className="fw-bolder">Finance Management</h2>
+                                <p>Money manager & expenses app will help you take your budget, money and finances under control and won’t take much time. It’s a very convenient budget app that can be used as an expense</p>
+<p><b>Technologies:</b> React, Bootstrap, Express, Mongo, React clerk, Node, Typescript</p>
+<a href="https://trfinanceplatform.netlify.app">click to vist site</a>
+                            </div>
+                           
+                        </div>
+                    </div>
+                </div>
     <div className="card overflow-hidden shadow rounded-4 border-0  mb-3">
     <div className="card-body p-0">
     <img className="img-fluid" src={tasks} alt="..." />
@@ -127,8 +142,8 @@ choose from and different information structure options</p>
             <div className="p-2">
                 <h2 className="fw-bolder">Task planner</h2>
                 <p>Task management app to help you stay organized and manage your day-to-day which boost productivity by allowing users to login and to create tasks with details such as title,description and date .This App uses CRUD operation to edit,delete,and Simple UI.  </p>
-                <p><b>Technologies:</b> React, Bulma CSS, Express, MomgoDB</p>
-                <a href="https://github.com/PLThabangR/Express-Web-Sever">https://github.com/PLThabangR/Express-Web-Sever</a>
+                <p><b>Technologies:</b> React, Bulma CSS, Express, MongoDB, Node, Javascript</p>
+                <a href="https://github.com/PLThabangR/Express-Web-Sever">click to visit site</a>
             </div>
            
         </div>
