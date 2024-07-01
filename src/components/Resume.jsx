@@ -4,10 +4,10 @@ const Resume = () => {
   return (
     <div>
     <div className="d-flex flex-column h-100 bg-light">
-    <main className="flex-shrink-0">
+    <main className="flex-wrap">
        
        
-        <div className="container px-5 my-5">
+        <div className="container  px-5 my-5">
             <div className="text-center mb-5">
                 <h1 className="display-5 fw-bolder mb-0"><span className="text-gradient d-inline">Resume</span></h1>
             </div>
@@ -15,20 +15,13 @@ const Resume = () => {
                 <div className="col-lg-11 col-xl-9 col-xxl-8">
 
                     <section>
-                        <div className="d-flex align-items-center justify-content-between mb-3">
-                            <h2 className="text-primary fw-bolder mb-0">Experience</h2>
-                           
-                            <a className="btn btn-primary px-4 py-3" href="#!">
-                                <div className="d-inline-block bi bi-download me-2"></div>
-                                Download Resume
-                            </a>
-                        </div>
                       
-                        <div className="card shadow border-0 rounded-4 mb-5">
-                            <div className="card-body p-5">
+                      
+                        <div className="card shadow border-0 rounded-4 mb-3">
+                            <div className="card-body p-2">
                                 <div className="row align-items-center gx-5">
                                     <div className="col text-center text-lg-start mb-4 mb-lg-0">
-                                        <div className="bg-light p-4 rounded-4">
+                                        <div className="bg-light p-2 rounded-4">
                                             <div className="text-primary fw-bolder mb-2">2020 - 2023</div>
                                             <div className="small fw-bolder">Warehouse assistance</div>
                                             <div className="small text-muted">Plumblink</div>
@@ -42,11 +35,11 @@ picked.
                                 </div>
                             </div>
                         </div>
-                        <div className="card shadow border-0 rounded-4 mb-5">
-                            <div className="card-body p-5">
+                        <div className="card shadow border-0 rounded-4 mb-3">
+                            <div className="card-body p-2">
                                 <div className="row align-items-center gx-5">
                                     <div className="col text-center text-lg-start mb-4 mb-lg-0">
-                                        <div className="bg-light p-4 rounded-4">
+                                        <div className="bg-light p-2 rounded-4">
                                             <div className="text-primary fw-bolder mb-2">2019 - 2019</div>
                                             <div className="small fw-bolder">Web Developer</div>
                                             <div className="small text-muted">The Digital Academy</div>
@@ -61,11 +54,11 @@ gained experience in angular 7 and Spring framework .</div></div>
                             </div>
                         </div>
 
-                        <div className="card shadow border-0 rounded-4 mb-5">
-                            <div className="card-body p-5">
+                        <div className="card shadow border-0 rounded-4 mb-3">
+                            <div className="card-body p-2">
                                 <div className="row align-items-center gx-5">
                                     <div className="col text-center text-lg-start mb-4 mb-lg-0">
-                                        <div className="bg-light p-4 rounded-4">
+                                        <div className="bg-light p-2 rounded-4">
                                             <div className="text-primary fw-bolder mb-2">2018 - 2018</div>
                                             <div className="small fw-bolder">Android Developer</div>
                                             <div className="small text-muted">Embizo Solution Developers</div>
@@ -82,11 +75,11 @@ Studio, Gradle Google api and Firebase </div></div>
                             </div>
                         </div>
                        
-                        <div className="card shadow border-0 rounded-4 mb-5">
-                            <div className="card-body p-5">
+                        <div className="card shadow border-0 rounded-4 mb-3">
+                            <div className="card-body p-2">
                                 <div className="row align-items-center gx-5">
                                     <div className="col text-center text-lg-start mb-4 mb-lg-0">
-                                        <div className="bg-light p-4 rounded-4">
+                                        <div className="bg-light p-2 rounded-4">
                                             <div className="text-primary fw-bolder mb-2">2017 - 2018</div>
                                             <div className="small fw-bolder">Warehouse assistance</div>
                                             <div className="small text-muted">Plumblink</div>
@@ -103,11 +96,11 @@ picked.</div></div>
                    
                     <section>
                         <h2 className="text-secondary fw-bolder mb-4">Education</h2>
-                        <div className="card shadow border-0 rounded-4 mb-5">
-                            <div className="card-body p-5">
+                        <div className="card shadow border-0 rounded-4 mb-3">
+                            <div className="card-body p-2">
                                 <div className="row align-items-center gx-5">
                                     <div className="col text-center text-lg-start mb-4 mb-lg-0">
-                                        <div className="bg-light p-4 rounded-4">
+                                        <div className="bg-light p-2 rounded-4">
                                             <div className="text-secondary fw-bolder mb-2">2024</div>
                                             <div className="mb-2">
                                                 <div className="small fw-bolder">Coursera</div>
@@ -130,11 +123,11 @@ picked.</div></div>
                                 </div>
                             </div>
                         </div>
-                        <div className="card shadow border-0 rounded-4 mb-5">
-                            <div className="card-body p-5">
+                        <div className="card shadow border-0 rounded-4 mb-3">
+                            <div className="card-body p-2">
                                 <div className="row align-items-center gx-5">
                                     <div className="col text-center text-lg-start mb-4 mb-lg-0">
-                                        <div className="bg-light p-4 rounded-4">
+                                        <div className="bg-light p-2 rounded-4">
                                             <div className="text-secondary fw-bolder mb-2">2024</div>
                                             <div className="mb-2">
                                                 <div className="small fw-bolder">Coursera</div>
@@ -152,11 +145,11 @@ software such as SQL, Python, and Django</div></div>
                                 </div>
                             </div>
                         </div>
-                        <div className="card shadow border-0 rounded-4 mb-5">
-                            <div className="card-body p-5">
+                        <div className="card shadow border-0 rounded-4 mb-3">
+                            <div className="card-body p-2">
                                 <div className="row align-items-center gx-5">
                                     <div className="col text-center text-lg-start mb-4 mb-lg-0">
-                                        <div className="bg-light p-4 rounded-4">
+                                        <div className="bg-light p-2 rounded-4">
                                             <div className="text-secondary fw-bolder mb-2">2024</div>
                                             <div className="mb-2">
                                                 <div className="small fw-bolder">Coursera</div>
@@ -174,11 +167,11 @@ software such as SQL, Python, and Django</div></div>
                             </div>
                         </div>
                        
-                        <div className="card shadow border-0 rounded-4 mb-5">
-                            <div className="card-body p-5">
+                        <div className="card shadow border-0 rounded-4 mb-3">
+                            <div className="card-body p-2">
                                 <div className="row align-items-center gx-5">
                                     <div className="col text-center text-lg-start mb-4 mb-lg-0">
-                                        <div className="bg-light p-4 rounded-4">
+                                        <div className="bg-light p-2 rounded-4">
                                             <div className="text-secondary fw-bolder mb-2">2023</div>
                                             <div className="mb-2">
                                                 <div className="small fw-bolder">Hackerrank</div>
@@ -194,11 +187,11 @@ software such as SQL, Python, and Django</div></div>
                                 </div>
                             </div>
                         </div>
-                        <div className="card shadow border-0 rounded-4 mb-5">
-                            <div className="card-body p-5">
+                        <div className="card shadow border-0 rounded-4 mb-3">
+                            <div className="card-body p-2">
                                 <div className="row align-items-center gx-5">
                                     <div className="col text-center text-lg-start mb-4 mb-lg-0">
-                                        <div className="bg-light p-4 rounded-4">
+                                        <div className="bg-light p-2 rounded-4">
                                             <div className="text-secondary fw-bolder mb-2">2023 - 2023</div>
                                             <div className="mb-2">
                                                 <div className="small fw-bolder">Skill Up</div>
@@ -218,11 +211,11 @@ me with the skills I need to become a successful fullStack developer.</div></div
                                 </div>
                             </div>
                         </div>
-                        <div className="card shadow border-0 rounded-4 mb-5">
-                            <div className="card-body p-5">
+                        <div className="card shadow border-0 rounded-4 mb-3">
+                            <div className="card-body p-2">
                                 <div className="row align-items-center gx-5">
                                     <div className="col text-center text-lg-start mb-4 mb-lg-0">
-                                        <div className="bg-light p-4 rounded-4">
+                                        <div className="bg-light p-2 rounded-4">
                                             <div className="text-secondary fw-bolder mb-2">2023 - present</div>
                                             <div className="mb-2">
                                                 <div className="small fw-bolder">Coursera</div>
@@ -239,11 +232,11 @@ application on IBM cloud
                                 </div>
                             </div>
                         </div>
-                        <div className="card shadow border-0 rounded-4 mb-5">
-                            <div className="card-body p-5">
+                        <div className="card shadow border-0 rounded-4 mb-3">
+                            <div className="card-body p-2">
                                 <div className="row align-items-center gx-5">
                                     <div className="col text-center text-lg-start mb-4 mb-lg-0">
-                                        <div className="bg-light p-4 rounded-4">
+                                        <div className="bg-light p-2 rounded-4">
                                             <div className="text-secondary fw-bolder mb-2">2019 - 2019</div>
                                             <div className="mb-2">
                                                 <div className="small fw-bolder">The Digital Academy</div>
@@ -261,11 +254,11 @@ application on IBM cloud
                             </div>
                         </div>
                        
-                        <div className="card shadow border-0 rounded-4 mb-5">
-                            <div className="card-body p-5">
+                        <div className="card shadow border-0 rounded-4 mb-3">
+                            <div className="card-body p-2">
                                 <div className="row align-items-center gx-5">
                                     <div className="col text-center text-lg-start mb-4 mb-lg-0">
-                                        <div className="bg-light p-4 rounded-4">
+                                        <div className="bg-light p-2 rounded-4">
                                             <div className="text-secondary fw-bolder mb-2">2015</div>
                                             <div className="mb-2">
                                                 <div className="small fw-bolder">University of Johannesburg</div>
