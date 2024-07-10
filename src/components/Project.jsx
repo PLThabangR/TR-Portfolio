@@ -5,6 +5,7 @@ import aisum from '../assets/aisum.png';
 import pass from '../assets/pass.png';
 import tasks from '../assets/tasks.png';
 import gitf from '../assets/gitf.png';
+import twitter from  '../assets/twitter.png'
 import fm from '../assets/fm.png'
 import { Link }  from 'react-router-dom'
 const Project = () => {
@@ -144,6 +145,21 @@ choose from and different information structure options</p>
                 <p>Task management app to help you stay organized and manage your day-to-day which boost productivity by allowing users to login and to create tasks with details such as title,description and date .This App uses CRUD operation to edit,delete,and Simple UI.  </p>
                 <p><b>Technologies:</b> React, Bulma CSS, Express, MongoDB, Node, Javascript</p>
                 <a href="https://github.com/PLThabangR/Express-Web-Sever">click to visit site</a>
+            </div>
+           
+        </div>
+    </div>
+</div>
+
+<div className="card overflow-hidden shadow rounded-4 border-0  mb-3">
+    <div className="card-body p-0">
+    <img className="img-fluid" src={twitter} alt="..." />
+        <div className="d-flex align-items-center">
+            <div className="p-2">
+                <h2 className="fw-bolder">Social Media</h2>
+                <p>From breaking news and entertainment to sports, politics, and everyday interests, when it happens in the world</p>
+                <p><b>Technologies:</b> React, Tailwind CSS,Daisy UI, Express, MongoDB, Node, Javascript, React Query</p>
+                <a href="https://github.com/PLThabangR/Social-Media">click to visit site</a>
             </div>
            
         </div>
